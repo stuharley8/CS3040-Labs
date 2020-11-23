@@ -1,0 +1,2 @@
+floor MAIN has rooms [ 50 by 30, 20 by 70 ]
+complex building A with floor { MAIN , BATHROOM }

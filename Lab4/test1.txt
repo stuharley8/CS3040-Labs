@@ -1,0 +1,2 @@
+floor GAMING has room [ 100 by 5 ]
+complex building GAMING with floors { GAMING }

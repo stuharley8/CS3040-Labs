@@ -1,0 +1,2 @@
+floor MAIN has room [ 40 by 30 ]
+compkex building B with floors { MAIN , MAIN }
