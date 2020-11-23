@@ -1,0 +1,5 @@
+floor BEDROOMS has rooms [ 50 by 50, 100 by 100 ]
+floor BATHROOMS has room [ 20 by 20 ]
+complex
+building HOUSE with floors { BEDROOMS, BEDROOMS, BATHROOMS }
+building OUTHOUSE with floor { BATHROOMS }

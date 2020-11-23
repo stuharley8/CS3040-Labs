@@ -1,0 +1,2 @@
+floor ONE has room [ 30 by 25 
+complex building ONE has floors [ ONE , ONE ]
